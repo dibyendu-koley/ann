@@ -9,7 +9,7 @@ using namespace cv;
 using namespace std;
 
 bool plotSupportVectors = true;
-int numTrainingPoints = 20000;
+int numTrainingPoints = 2000;
 int numTestPoints = 2000;
 int size = 200;
 int eq = 0;
